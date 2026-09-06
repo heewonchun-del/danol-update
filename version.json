@@ -1,8 +1,8 @@
 {
-  "version": "1.2",
+  "version": "1.2.1",
   "date": "2026-09-06",
-  "notes": "다놀 v1.2 업데이트입니다. 안전한 자동 업데이트(sha256 검증), 스크린 리더용 안내창 정리, 실전 야구(타격·피칭 연습, 선후공 선택 동전 던지기, 관찰 자동, 파울·이닝 초/말·2인 시작 효과음, 종료 요약), 9개 언어 매뉴얼·F1 정합을 반영했습니다. 기존 1.0/1.1 설치본에 패치로 올릴 수 있습니다.",
-  "url": "https://github.com/heewonchun-del/danol-update/releases/download/v1.2/Danol_Setup.exe",
-  "sha256": "e1c6a8e6e977272ce34a7bfde3e35336440b3bbae38a91b618dca8a3c2df9cec",
+  "notes": "다놀 v1.2.1 패치입니다. 자동 업데이트 설치 시 종료음 대기 때문에 Danol.exe를 덮어쓰지 못하던 문제를 고쳤습니다(업데이트 종료는 즉시 종료, 설치기는 종료 대기/강제 종료 후 덮어쓰기). v1.2의 자동 업데이트·안내창·실전 야구·매뉴얼 정합도 포함합니다.",
+  "url": "https://github.com/heewonchun-del/danol-update/releases/download/v1.2.1/Danol_Setup.exe",
+  "sha256": "3e8b677d17b39c0c3eed247da781c4e37b8e0104c032f68faada15b8d8184fee",
   "reboot_required": "false"
 }
