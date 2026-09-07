@@ -1,8 +1,8 @@
 {
   "version": "1.2.1",
-  "date": "2026-09-06",
-  "notes": "다놀 v1.2.1 패치입니다. 자동 업데이트 설치 시 종료음 대기 때문에 Danol.exe를 덮어쓰지 못하던 문제를 고쳤습니다(업데이트 종료는 즉시 종료, 설치기는 종료 대기/강제 종료 후 덮어쓰기). v1.2의 자동 업데이트·안내창·실전 야구·매뉴얼 정합도 포함합니다.",
+  "date": "2026-09-07",
+  "notes": "다놀 v1.2.1 패치입니다. 실전 야구에서 동전 던지기 효과음이 제대로 재생되도록 수정했습니다. 구 버전(종료음 대기 약 15초)을 쓰는 경우에도 자동 업데이트 설치 시 Danol.exe 덮어쓰기가 실패하지 않도록, 설치기가 프로세스 종료·잠금 해제 대기 후 파일을 교체합니다.",
   "url": "https://github.com/heewonchun-del/danol-update/releases/download/v1.2.1/Danol_Setup.exe",
-  "sha256": "3e8b677d17b39c0c3eed247da781c4e37b8e0104c032f68faada15b8d8184fee",
+  "sha256": "3cbfaa0ea0ba9add54775ad5cd9b3598f8e211f3427d237c625a3ac27f84ae7b",
   "reboot_required": "false"
 }
