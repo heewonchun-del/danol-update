@@ -1,8 +1,8 @@
 {
-  "version": "1.3",
-  "date": "2026-09-23",
-  "notes": "다놀 v1.3 패치: 제거 시 nvdaControllerClient64.dll도 삭제되도록 Uninstall.exe를 갱신합니다. 설치 전에 다놀을 종료해 주세요.",
-  "url": "https://github.com/heewonchun-del/danol-update/releases/download/v1.3/danol_setup.exe",
-  "sha256": "7ac523096aa851d10ced058dc39d5b19d11e3ec6a27c0f166eeac7e75f79464a",
-  "reboot_required": "false"
+  "version": "1.3.1",
+  "date": "2026-09-24",
+  "notes": "다놀 v1.3.1: 첫 실행 시 Windows 표시 언어로 UI를 맞추고, 스페인어·프랑스어 메뉴 단축키를 통일했습니다.",
+  "url": "https://github.com/heewonchun-del/danol-update/releases/download/v1.3.1/danol_setup.exe",
+  "sha256": "85dbf0e587b844985fecd411b088e262a09e39ec5cf458a2aed27c719df269e4",
+  "reboot_required": false
 }
