@@ -5,6 +5,6 @@
   "notes_ko": "다놀 v1.3.4 — 최소화해도 게임이 남고, 오델로와 함대 격침은 이어할 수 있습니다. 행맨, 낱말 섞기, 뜻 맞히기를 넣었습니다.",
   "notes_en": "Danol v1.3.4 — Games stay available after minimize. Reversi and Fleet Battle can resume. Hangman, Word Scramble, and Definition Quiz are included.",
   "url": "https://github.com/heewonchun-del/danol-update/releases/download/v1.3.4/danol_setup.exe",
-  "sha256": "00d917cb15cf2b6361c66027044345d4ed9b4b70c7ef9e27044e91fba1429fb9",
+  "sha256": "b0cff56871e37b7716ace5bdd77c1d7e0b09008effdd3c5d9cf48d45653629f0",
   "reboot_required": false
 }
